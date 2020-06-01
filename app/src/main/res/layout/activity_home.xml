@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/raw_home"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/the_most_valuable_thing_is_our_health"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:paddingHorizontal="25dp"
+        android:text="@string/irrigation_that_saves_you_money_professional_irrigation_design_that_takes_into_account_all_facets_of_each_project_to_maximize_efficiency_minimize_water_consumption_and_eliminate_non_target_watering_from_water_use_audits_to_system_maintenance_winterization_line_blow_outs_and_rainwater_harvesting_smart_watering_systems_will_ensure_your_automated_sprinkler_system_irrigation_is_working_perfectly"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+</LinearLayout>

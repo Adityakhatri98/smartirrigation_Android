@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">smartcrop</string>
+    <string name="otpdone">OTP Verified</string>
+    <string name="loginnow">Login Now</string>
+    <string name="loading">Loading</string>
+    <string name="pwderror">Password must be contain 8-20 characters !!</string>
+    <string name="emailerror">Please enter valid Email !!</string>
+    <string name="pincodeerror">Pincode must be contain 6-8 Numbers !!</string>
+    <string name="addresserror">Address must be contain 10-50 characters !!</string>
+    <string name="phoneerror">Please Enter 10 Digit !!</string>
+    <string name="nameerror">Username must be alphabetic and contain 3-30 characters !!</string>
+    <string name="emailwar">Email is already registered !!</string>
+    <string name="loginerror">Please enter valid email or password!!</string>
+    <string name="sign_in">Sign In with Google</string>
+    <string name="select">-------Select Date------</string>
+    <string name="configure">configure</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="remaining">Seconds remainings to resend OTP :</string>
+    <string name="resend">Did not get the OTP? RESEND OTP.</string>
+
+    <string name="incorrect">Incorrect OTP</string>
+    <string name="messages_header">Change Mode</string>
+    <string name="sync_header">Moter Control</string>
+    <string name="home">Home</string>
+    <string name="report">Report</string>
+    <string name="logs">Logs</string>
+    <string name="node1">Node 1</string>
+    <string name="node2">Node 2</string>
+    <string name="node3">Node 3</string>
+    <string name="node4">Node 4</string>
+    <string name="the_most_valuable_thing_is_our_health">THE MOST VALUABLE THING IS OUR HEALTH</string>
+    <string name="irrigation_that_saves_you_money_professional_irrigation_design_that_takes_into_account_all_facets_of_each_project_to_maximize_efficiency_minimize_water_consumption_and_eliminate_non_target_watering_from_water_use_audits_to_system_maintenance_winterization_line_blow_outs_and_rainwater_harvesting_smart_watering_systems_will_ensure_your_automated_sprinkler_system_irrigation_is_working_perfectly">Irrigation that saves you Money Professional Irrigation Design that takes into account all facets of each project to maximize efficiency, minimize water consumption and eliminate non-target watering. From water use audits to system maintenance, winterization (line blow-outs) and rainwater harvesting Smart Watering Systems will ensure your automated sprinkler system (irrigation) is working perfectly.</string>
+    <string name="change_language">Change Language</string>
+    <string name="please_select_your_date">Please Select Your Date</string>
+    <string name="choose_date">Choose Date :</string>
+    <string name="smart_irrigation">SmartCrop</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="dont_t_have_an_account_sign_up">Dont\'t have an account?sign up!</string>
+    <string name="your_otp_send_to">Your otp send to</string>
+    <string name="enter_the_4_digit_otp">Enter the 4 digit OTP</string>
+    <string name="verify">Verify</string>
+    <string name="name">Name</string>
+    <string name="phone_70xxxxxx70">Phone (77XXXXXX00)</string>
+    <string name="address">Address</string>
+    <string name="pincode">Pincode</string>
+    <string name="password_at_least_8_chrecters">Password (at least 8 characters)</string>
+    <string name="signup">Sign Up</string>
+    <string name="already_have_an_account_sign_in">already have an account?sign in!</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="help">Help</string>
+    <string name="logout">Logout</string>
+    <string name="manualnode">Enable Manual Mode</string>
+    <string name="systemreset">System Reset</string>
+    <string name="filedreset">Field Reset</string>
+    <string name="moter">Moter on/off </string>
+
+
+    <string name="unit" translatable="false">%</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
+    <string name="facebook_app_id" translatable="false">535589267067933</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb535589267067933</string>
+    <!-- Preference Titles -->
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+
+</resources>

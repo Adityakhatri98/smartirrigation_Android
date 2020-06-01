@@ -1,0 +1,28 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <SwitchPreferenceCompat
+            app:key="manual"
+            app:title="@string/manualnode" />
+
+        <SwitchPreferenceCompat
+            app:key="master"
+            app:title="@string/systemreset" />
+
+        <SwitchPreferenceCompat
+            app:key="slave"
+            app:title="@string/filedreset" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/sync_header">
+
+        <SwitchPreferenceCompat
+            app:key="moter"
+            app:title="@string/moter"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

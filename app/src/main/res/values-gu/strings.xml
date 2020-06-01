@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">smartcrop</string>
+    <string name="incorrect">ખોટો ઓટીપી</string>
+
+    <string name="otpdone">ઓટીપી વેરિફાઈડ</string>
+    <string name="loginnow">લોગીન કરો</string>
+    <string name="loading">લોડ કરી રહ્યું છે</string>
+    <string name="pwderror">પાસવર્ડમાં 8-20 અક્ષરો હોવા જોઈએ !!</string>
+    <string name="emailerror">સાહી ઇમેઇલ દાખલ કરો!</string>
+    <string name="pincodeerror">પિનકોડમાં 6-8 નંબરો હોવા આવશ્યક છે !!</string>
+    <string name="phoneerror">કૃપા કરી 10 અંક દાખલ કરો !!</string>
+    <string name="emailwar">ઇમેઇલ પહેલેથી જ નોંધાયેલ છે !!</string>
+    <string name="loginerror">કૃપા કરીને માન્ય ઇમેઇલ અથવા પાસવર્ડ દાખલ કરો !!</string>
+    <string name="sign_in">સાઇન ઇન કરો</string>
+    <string name="select">------- તારીખ પસંદ કરો ------</string>
+    <string name="configure">કોન્ફીગર</string>
+    <string name="on">ચાલુ</string>
+    <string name="off">બંધ</string>
+    <string name="remaining">OTP ને ફરીથી મોકલવા માટેના સેકંડ્સ:</string>
+    <string name="resend">ઓટીપી નથી મળ્યો? OTP ને ફરીથી આપો.</string>
+
+
+    <string name="messages_header">મોડ બદલો</string>
+    <string name="sync_header">मोटर नियंत्रण</string>
+    <string name="home">હોમ</string>
+    <string name="report">રિપોર્ટ</string>
+    <string name="node1">નોડ ૧</string>
+    <string name="node2">નોડ ૨</string>
+    <string name="node3">નોડ ૩</string>
+    <string name="node4">નોડ ૪</string>
+    <string name="the_most_valuable_thing_is_our_health">સૌથી વધુ મૂલ્યવાન વસ્તુ આપણું આરોગ્ય છે</string>
+    <string name="irrigation_that_saves_you_money_professional_irrigation_design_that_takes_into_account_all_facets_of_each_project_to_maximize_efficiency_minimize_water_consumption_and_eliminate_non_target_watering_from_water_use_audits_to_system_maintenance_winterization_line_blow_outs_and_rainwater_harvesting_smart_watering_systems_will_ensure_your_automated_sprinkler_system_irrigation_is_working_perfectly">સિંચાઈ જે તમને બચાવશે મની પ્રોફેશનલ સિંચાઈ ડિઝાઇન જે કાર્યક્ષમતાને વધારવા, પાણીનો વપરાશ ઘટાડવા અને બિન-લક્ષ્યયુક્ત પ્રાણીઓની પાણી પીવાની નાબૂદ કરવા માટેના દરેક પ્રોજેક્ટના તમામ પાસાઓને ધ્યાનમાં લે છે. વોટર યુઝ audડિટથી માંડીને સિસ્ટમ મેન્ટેનન્સ, વિન્ટરલાઇઝેશન (લાઈન ફ્લો-આઉટ્સ) અને રેઇન વોટર હાર્વેસ્ટિંગ સ્માર્ટ વોટરિંગ સિસ્ટમ્સ તમારી સ્વચાલિત સ્પ્રિંકલર સિસ્ટમ (સિંચાઈ) સંપૂર્ણ રીતે કાર્યરત છે તેની ખાતરી કરશે.</string>
+    <string name="change_language">ભાષા બદલો</string>
+    <string name="please_select_your_date">કૃપા કરીને તમારી તારીખ પસંદ કરો</string>
+    <string name="choose_date">તારીખ પસંદ કરો:</string>
+    <string name="email">ઇમેઇલ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="signin">સાઇન ઇન</string>
+    <string name="dont_t_have_an_account_sign_up">એકાઉન્ટ નથી? સાઇન અપ કરો!</string>
+    <string name="your_otp_send_to">તમારી ઓ.ટી.પી.</string>
+    <string name="enter_the_4_digit_otp">4 અંકનો ઓટીપી દાખલ કરો</string>
+    <string name="verify">વેરિફાઈ</string>
+    <string name="name">નામ</string>
+    <string name="phone_70xxxxxx70">ફોન (૭૭XXXXXX૦૦)</string>
+    <string name="address">સરનામું</string>
+    <string name="pincode">પીન કોડ</string>
+    <string name="password_at_least_8_chrecters">પાસવર્ડ (ઓછામાં ઓછા ૮ અક્ષરો)</string>
+    <string name="signup">સાઇન અપ</string>
+    <string name="already_have_an_account_sign_in">પહેલેથી ખાતું છે? સાઇન ઇન કરો!</string>
+    <string name="date">તારીખ</string>
+    <string name="time">સમય</string>
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="profile">પ્રોફાઇલ</string>
+    <string name="help">સહાય કરો</string>
+    <string name="logout">લૉગ આઉટ</string>
+    <string name="manualnode">મેન્યુઅલ મોડ પ્રારંભ કરો</string>
+    <string name="systemreset">સિસ્ટમ રીસેટ</string>
+    <string name="filedreset">ફીલ્ડ રીસેટ</string>
+    <string name="moter">મોટર ચાલુ / બંધ</string>
+    <string name="smart_irrigation">" સ્માર્ટ ક્રોપ"</string>
+    <string name="logs">લોગ્સ</string>
+    <string name="addresserror">સરનામાંમાં 10-50 અક્ષરો હોવા આવશ્યક છે !!</string>
+    <string name="nameerror">નામ મૂળાક્ષરોનું હોવું જોઈએ અને તેમાં 3-30 અક્ષરો હોવા જોઈએ.</string>
+</resources>

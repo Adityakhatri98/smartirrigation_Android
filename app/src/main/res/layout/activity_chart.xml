@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="2"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/raw_chart"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_weight="4"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/node1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#FFF"
+            android:background="@drawable/my_btn"
+            android:textAllCaps="false"
+            android:text="@string/node1"/>
+
+        <Button
+            android:id="@+id/node2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="#FFF"
+            android:background="@drawable/my_btn"
+            android:textAllCaps="false"
+            android:text="@string/node2"/>
+
+        <Button
+            android:id="@+id/node3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:layout_weight="1"
+            android:textColor="#FFF"
+            android:background="@drawable/my_btn"
+            android:text="@string/node3"/>
+
+        <Button
+            android:id="@+id/node4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:textColor="#FFF"
+            android:background="@drawable/my_btn"
+            android:text="@string/node4"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="20"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <com.github.anastr.speedviewlib.TubeSpeedometer
+        android:id="@+id/tubeSpeedometer"
+        app:sv_withTremble="false"
+        app:sv_maxSpeed="100"
+        android:layout_gravity="center"
+        app:sv_unit="@string/unit"
+        app:sv_speedTextFormat="INTEGER"
+        app:sv_speedTextPosition="CENTER"
+        app:sv_speedTextSize="25sp"
+        app:sv_unitTextSize="20sp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

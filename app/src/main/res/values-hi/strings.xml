@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">smartcrop</string>
+    <string name="incorrect">गलत ओटीपी</string>
+
+    <string name="otpdone">ओटीपी वेरिफ़ाईड</string>
+    <string name="loginnow">प्रवेश करें</string>
+    <string name="loading">लोड हो रहा है</string>
+    <string name="pwderror">पासवर्ड में 8-20 अक्षर होने चाहिए !!</string>
+    <string name="emailerror">कृपया साही ईमेल दर्ज करें !!</string>
+    <string name="pincodeerror">पिनकोड में 6-8 नंबर होने चाहिए !!</string>
+    <string name="addresserror">पते में 10-50 अक्षर होने चाहिए !!</string>
+    <string name="phoneerror">कृपया 10 अंक दर्ज करें !!</string>
+    <string name="emailwar">" ईमेल पहले से ही है !!"</string>
+    <string name="loginerror">कृपया मान्य ईमेल या पासवर्ड दर्ज करें !!</string>
+    <string name="select">-------तारीख़ चुनें------</string>
+    <string name="configure">कॉन्फ़िगर</string>
+    <string name="on">चालू</string>
+    <string name="off">बंद</string>
+    <string name="remaining">OTP को भेजने के लिए सेकंड शेष:</string>
+    <string name="resend">OTP नहीं मिला? ओटीपी पुनः भेजें।</string>
+
+
+    <string name="messages_header">मोड बदलें</string>
+    <string name="sync_header">मोटर नियंत्रण</string>
+    <string name="home">होम</string>
+    <string name="report">रिपोर्ट</string>
+    <string name="logs">लोग्स</string>
+    <string name="node2">नोड २</string>
+    <string name="node3">"नोड ३ "</string>
+    <string name="node4">नोड ४</string>
+    <string name="the_most_valuable_thing_is_our_health">सबसे महत्वपूर्ण बात हमारी स्वास्थ्य है</string>
+    <string name="irrigation_that_saves_you_money_professional_irrigation_design_that_takes_into_account_all_facets_of_each_project_to_maximize_efficiency_minimize_water_consumption_and_eliminate_non_target_watering_from_water_use_audits_to_system_maintenance_winterization_line_blow_outs_and_rainwater_harvesting_smart_watering_systems_will_ensure_your_automated_sprinkler_system_irrigation_is_working_perfectly">सिंचाई जो आपको धन पेशेवर सिंचाई डिजाइन बचाता है जो दक्षता को अधिकतम करने, पानी की खपत को कम करने और गैर-लक्ष्य पानी को खत्म करने के लिए प्रत्येक परियोजना के सभी पहलुओं को ध्यान में रखता है। सिस्टम मेंटेनेंस, विंटरलाइजेशन (लाइन ब्लो-आउट) और रेन वाटर हार्वेस्टिंग स्मार्ट वाटरिंग सिस्टम के लिए वाटर यूज़ ऑडिट से लेकर आपके ऑटोमेटेड स्प्रिंकलर सिस्टम (सिंचाई) पर पूरी तरह काम हो रहा है।</string>
+    <string name="change_language">भाषा बदलो</string>
+    <string name="please_select_your_date">कृपया अपना दिनांक चुनें</string>
+    <string name="choose_date">दिनांक चुनें:</string>
+    <string name="smart_irrigation">स्मार्ट क्रॉप</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="signin">साइन इन</string>
+    <string name="dont_t_have_an_account_sign_up">कोई खाता नहीं है? साइन अप करें</string>
+    <string name="your_otp_send_to">आपका ओ.टी.पी.</string>
+    <string name="enter_the_4_digit_otp">4 अंक ओटीपी दर्ज करें</string>
+    <string name="verify">वेरिफ़ाई</string>
+    <string name="name">नाम</string>
+    <string name="phone_70xxxxxx70">फ़ोन (७७XXXXXX००)</string>
+    <string name="address">पता</string>
+    <string name="pincode">पिन कोड</string>
+    <string name="password_at_least_8_chrecters">पासवर्ड (कम से कम ८ अक्षरों का)</string>
+    <string name="signup">साइन अप</string>
+    <string name="already_have_an_account_sign_in">पहले से ही एक खाता है? साइन इन करें!</string>
+    <string name="date">दिनांक</string>
+    <string name="settings">सेटिंग</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="help">मदद</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="manualnode">मैनुअल मोड शुरू करें</string>
+    <string name="systemreset">सिस्टम रीसेट</string>
+    <string name="filedreset">फील्ड रीसेट</string>
+    <string name="moter">मोटर चालू / बंद</string>
+    <string name="node1">नोड १</string>
+    <string name="time">समय</string>
+    <string name="nameerror">नाम वर्णनात्मक होना चाहिए और इसमें 3-30 वर्ण होने चाहिए !!</string>
+    <string name="sign_in">साइन इन करें</string>
+</resources>

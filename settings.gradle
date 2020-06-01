@@ -1,0 +1,2 @@
+include ':app', ':sample', ':library'
+rootProject.name='checklogin'
