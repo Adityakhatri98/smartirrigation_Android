@@ -8,9 +8,9 @@ import com.sendgrid.SendGridException;
 public class SendEmail {
 
     //keval key
-    // public static final String key = "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";
+    // public static final String key = "your key";
 
-    public static final String key = "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";
+    public static final String key = "your key";
     public static void send(String otp, String useremail) {
         //Alternate way of instantiating
         //SendGrid sendGrid = new SendGrid(SENDGRID_USERNAME,SENDGRID_PASSWORD);
